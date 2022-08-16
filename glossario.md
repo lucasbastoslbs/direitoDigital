@@ -9,6 +9,8 @@
     De forma geral trata sobre normas e condutas relativas ao comportamentos e requisitos para uso de recursos digitais, ou seja,
     uso do celular, computador e dispositivos que se conectam com a rede de forma pública, de forma a trazer segurança a todos que a utilizam.
 
+## Direito do Consumidor:
+    Área do direito focada no direito do consumidor no relacionamento empresa-cliente.
 
 ## Lei Carolina Dieckmann (lei nº 12.737/2012):
     Lei com enfoque na parte de invasão ou roubo de informações juntamente com a divulgação destes, interrupção de serviços e conexões, falsificação de documentos.
