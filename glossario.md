@@ -11,6 +11,9 @@
 
 ## Direito do Consumidor:
     Área do direito focada no direito do consumidor no relacionamento empresa-cliente.
+    
+## Lei:
+    Prescrição de regra(s) que estabelece uma obrigração que deve ser cumprida por um grupo pertencente a um grupo maior (pessoas - sociedade), com caráter punitivo.
 
 ## Lei Carolina Dieckmann (lei nº 12.737/2012):
     Lei com enfoque na parte de invasão ou roubo de informações juntamente com a divulgação destes, interrupção de serviços e conexões, falsificação de documentos.
@@ -20,6 +23,12 @@
 
 ## Marco Civil da Internet (lei nº 12.965/2014):
     Lei que define comportamentos e atitudes especificas do uso da internet, atitudes como expressão de opinião e privacidade, tanto para uso pessoal quanto para jurídico.
+    
+## Norma:
+    Boas práticas, padrões de comportamento.
+
+## Regulamento:
+    Conjunto de normas.
 
 # Siglas
 
