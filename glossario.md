@@ -4,6 +4,9 @@
     Contencioso em si, na área do direito, é o nome dado para a área onde o advogado se especializa para disputas.
     
     Na parte do direito digital, o foco maior são nos advogados que representam ações onde houve violação do direito digital na parte de vazamento de informações ou direitos autorais.
+    
+## Compliance
+    Transparência empresarial do diretor até o posto mais baixo; transparência com todos os funcionários.
 
 ## Direito Digital:
     De forma geral trata sobre normas e condutas relativas ao comportamentos e requisitos para uso de recursos digitais, ou seja,
