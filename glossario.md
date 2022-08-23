@@ -6,7 +6,7 @@
     Na parte do direito digital, o foco maior são nos advogados que representam ações onde houve violação do direito digital na parte de vazamento de informações ou direitos autorais.
     
 ## Compliance
-    Transparência empresarial do diretor até o posto mais baixo; transparência com todos os funcionários.
+    Transparência empresarial do diretor até o posto mais baixo; transparência com todos os funcionários, com intuito de evitar insatisfação e desvios de informações dentro da empresa
 
 ## Direito Digital:
     De forma geral trata sobre normas e condutas relativas ao comportamentos e requisitos para uso de recursos digitais, ou seja,
