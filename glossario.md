@@ -32,7 +32,7 @@
 
 ## Outsourcing
     Transferir tarefas, operações, trabalhos ou processos para uma força de trabalho externa, contratando terceiros por um período de TEMPO DETERMINADO, com intuito de reduzir custos e/ou melhorar eficiência.
-Aumento de qualificação de setor de atividade sem aumentar a complexidade da empresa. Surgida uma demanda repentina, para que não haja necessidade de treinar um pessoal, contrata-se uma empresa terceirizada que já tem experiência no assunto e não há necessidade de vínculo posterior como salários, aumento de instalação, economia de tempo, etc. Outra grande vantagem é que possibilita evitar infrações a normas ou leis governamentais, como regulamentos ambientais ou requisitos de segurança do trabalho.
+    Aumento de qualificação de setor de atividade sem aumentar a complexidade da empresa. Surgida uma demanda repentina, para que não haja necessidade de treinar um pessoal, contrata-se uma empresa terceirizada que já tem experiência no assunto e não há necessidade de vínculo posterior como salários, aumento de instalação, economia de tempo, etc. Outra grande vantagem é que possibilita evitar infrações a normas ou leis governamentais, como regulamentos ambientais ou requisitos de segurança do trabalho.
 
 ## Regulamento:
     Conjunto de normas.
