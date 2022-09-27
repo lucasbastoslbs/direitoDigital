@@ -15,6 +15,9 @@
 ## Direito do Consumidor:
     Área do direito focada no direito do consumidor no relacionamento empresa-cliente.
     
+## Documento Eletrônico:
+    Não necessariamente é um documento que está nos meios eletrônicos, e sim um documento que tem autenticidade.
+    
 ## Lei:
     Prescrição de regra(s) que estabelece uma obrigração que deve ser cumprida por um grupo pertencente a um grupo maior (pessoas - sociedade), com caráter punitivo.
 
