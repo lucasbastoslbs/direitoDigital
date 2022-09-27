@@ -1,5 +1,13 @@
 # Conceitos/Expressões
 
+## Assinatura Digital
+    Comprovação de identidade mediante um certificado digital; comprovação de que o emissor de um documento digital é mesmo quem afirma ser.
+    Para o CPF, o valor do certificado gira em torno de R$ 90 e R$ 400 para um ano de validade, dependendo da agência certificadora e da modalidade. No geral, o app em celular é o mais barato, enquanto o combo cartão + leitora é o mais caro. Já para o CNPJ, os valores variam entre R$ 150 e R$ 410, também para um ano e para os mesmos tipos.
+    Diferente da assinatura eletrônica, que é a forma como é assinado algum documento, a assinatura digital é criptografada e necessita de um **certificado digital** emitido por autoridade certificadora, por exemplo, ICP-Brasil.
+    
+## Certificação Digital
+    Pré-requisito para a assinatura digital.  O certificado é um documento eletrônico que funciona como uma identidade virtual. Ele pode ser armazenado no servidor da organização, no próprio computador, em um cartão com chip, token (pendrive) ou ainda por meio de um aplicativo mobile, hoje em dia, é comum a utilização do aplicativo gov.br para pessoas físicas.
+    
 ## Contencioso
     Contencioso em si, na área do direito, é o nome dado para a área onde o advogado se especializa para disputas.
     
