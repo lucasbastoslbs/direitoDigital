@@ -3,10 +3,14 @@
 ## Assinatura Digital
     Comprovação de identidade mediante um certificado digital; comprovação de que o emissor de um documento digital é mesmo quem afirma ser.
     Para o CPF, o valor do certificado gira em torno de R$ 90 e R$ 400 para um ano de validade, dependendo da agência certificadora e da modalidade. No geral, o app em celular é o mais barato, enquanto o combo cartão + leitora é o mais caro. Já para o CNPJ, os valores variam entre R$ 150 e R$ 410, também para um ano e para os mesmos tipos.
-    Diferente da assinatura eletrônica, que é a forma como é assinado algum documento, a assinatura digital é criptografada e necessita de um _certificado digital_ emitido por autoridade certificadora, por exemplo, ICP-Brasil.
+    Para assinatura existem vários serviços disponíveis na internet, uma das grandes é a D4Sign, basta ter uma atenção com os gratuitos pois eles podem não ser 100% seguros.
+    Diferente da assinatura eletrônica, que é a forma como é assinado algum documento, a assinatura digital é criptografada e necessita de um certificado digital emitido por autoridade certificadora, por exemplo, ICP-Brasil.
     
 ## Certificação Digital
-    Pré-requisito para a assinatura digital.  O certificado é um documento eletrônico que funciona como uma identidade virtual. Ele pode ser armazenado no servidor da organização, no próprio computador, em um cartão com chip, token (pendrive) ou ainda por meio de um aplicativo mobile, hoje em dia, é comum a utilização do aplicativo gov.br para pessoas físicas.
+    Pré-requisito para a assinatura digital.  O certificado é um documento eletrônico que funciona como uma identidade virtual. Ele pode ser armazenado no servidor da organização, no próprio computador, em um cartão com chip, token (pendrive) ou ainda por meio de um aplicativo mobile, hoje em dia, é comum a utilização do aplicativo gov.br para pessoas físicas. Um detalhe interessante é que ele não precisa de reconhecimento de firma em cartório.
+    Existem dois tipos de certificados:
+    - A1: armazenado no computador do dono; possui validade de 1 ano; custo em torno de 229 reais + 220 para uma visita de um técnico; recomendado para empresas que geram bastante notas fiscais
+    - A3: armazenado em dispositivo móvel (pen drive, token, smartcard);  possui validade de 12 a 36 meses; custo em torno de 285 a 540 reais; não necessita computador autorizado; recomendado para empresas que não emitem tantas notas fiscais.
     
 ## Contencioso
     Contencioso em si, na área do direito, é o nome dado para a área onde o advogado se especializa para disputas.
