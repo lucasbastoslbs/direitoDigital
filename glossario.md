@@ -29,7 +29,16 @@
     
 ## Documento Eletrônico:
     Não necessariamente é um documento que está nos meios eletrônicos, e sim um documento que tem autenticidade.
+
+## e-Government
     
+
+## e-Learning
+    Aprendizado por meios digitais. Popularmente conhecidos por Ensindo à Distância (EaD). Por meio de plataformas, os usuários conseguem proporcionar aulas e treinamentos, de forma individual ou coletiva. Uma vantagem desta modalidade é que é possível de ser promovida em tempo real ou não. Outro ponto positivo, para que fornece, é que os custos são dividos, já que não é necessário criar toda uma infraestrutura para abrigar um número x de pessoas. Os recusos são distribuídos entre os usuários e, de certa forma, pode ser até mais confortável.
+
+## e-Market
+    Mistura de serviços entre busca e entrega. De certa forma, a parte física mudou de foco. De trazer os produtos para um lugar e os clientes buscarem para os clientes buscarem de qualquer lugar e recebê-los em casa. Permite também diversidade de fornecedores, como os e-market de varejo (magazineluiza, mercado livre, shopee, etc). Deve-se tomar cuidado com serviço por conta de dados pessoais; sites não confiáveis podem ser falsos e acabam furtando dados como número de cartões.
+
 ## Lei:
     Prescrição de regra(s) que estabelece uma obrigração que deve ser cumprida por um grupo pertencente a um grupo maior (pessoas - sociedade), com caráter punitivo.
 
