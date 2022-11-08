@@ -31,7 +31,7 @@
     Não necessariamente é um documento que está nos meios eletrônicos, e sim um documento que tem autenticidade.
 
 ## e-Government
-    
+    Consiste na transferência de serviços públicos para meios eletrônicos, web ou aplicações. No Brasil, o uso do gov.br para uso de documentos digitais tem se tornado cada vez mais comum. Outros serviços como lançamento de imposto de renda, processo de transferência de carro, entre outros, também são possíveis pela ferramenta. A aplicação usa de dados sensíveis, mas, diferentemente do e-market, há uma garantia muito menor de vazamento de informações, já que é de orgão governamental, além de facilitar a intercomunicação com outros serviços públicos.
 
 ## e-Learning
     Aprendizado por meios digitais. Popularmente conhecidos por Ensindo à Distância (EaD). Por meio de plataformas, os usuários conseguem proporcionar aulas e treinamentos, de forma individual ou coletiva. Uma vantagem desta modalidade é que é possível de ser promovida em tempo real ou não. Outro ponto positivo, para que fornece, é que os custos são dividos, já que não é necessário criar toda uma infraestrutura para abrigar um número x de pessoas. Os recusos são distribuídos entre os usuários e, de certa forma, pode ser até mais confortável.
