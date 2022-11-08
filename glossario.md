@@ -36,7 +36,7 @@
 ## Lei Carolina Dieckmann (lei nº 12.737/2012):
     Lei com enfoque na parte de invasão ou roubo de informações juntamente com a divulgação destes, interrupção de serviços e conexões, falsificação de documentos.
 
-## Lei do Software:
+## Lei do Software (Lei nº. 9609/98):
     Proteção do direito de propriedade intelectual, semelhante ao de obras literárias, por 50 anos, após o 366° dia de criação. Para tal, é indicado que o software seja registrado no Instituto Nacional de Propriedade Industrial (INPI), orgão que auxilia na verificação de autoria. Garante ao criador autorizar a modificação por outras pessoas, uso comercial e reconhecimento.
     Penalidade: detenção de seis meses a dois anos, mais multa. Se a transgressão tiver motivação comercial, a sanção pode chegar a reclusão de um a quatro anos, mais multa.
 
