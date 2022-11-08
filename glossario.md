@@ -36,6 +36,10 @@
 ## Lei Carolina Dieckmann (lei nº 12.737/2012):
     Lei com enfoque na parte de invasão ou roubo de informações juntamente com a divulgação destes, interrupção de serviços e conexões, falsificação de documentos.
 
+## Lei do Software:
+    Proteção do direito de propriedade intelectual, semelhante ao de obras literárias, por 50 anos, após o 366° dia de criação. Para tal, é indicado que o software seja registrado no Instituto Nacional de Propriedade Industrial (INPI), orgão que auxilia na verificação de autoria. Garante ao criador autorizar a modificação por outras pessoas, uso comercial e reconhecimento.
+    Penalidade: detenção de seis meses a dois anos, mais multa. Se a transgressão tiver motivação comercial, a sanção pode chegar a reclusão de um a quatro anos, mais multa.
+
 ## Lei Geral de Proteção de Dados Pessoais (lei nº 13.709/2018):
     Lei que garante como as empresas utilizam os dados adquiridos dos seus clientes. De forma transparente, na hora de contratar o serviço, a empresa deve fornecer informações sobre qual o intuito das informações solicitadas para um cadastro, por exemplo. Ao mesmo tempo que, além dessa transparência, deve-se ter cuidado com informações sensíveis. Existem informações que podem ser divulgadas e outras não. Mas acima de tudo, quem decide se pode ou não divulgar é o fornecedor da informação.
 
