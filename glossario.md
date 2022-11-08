@@ -1,5 +1,8 @@
 # Conceitos/Expressões
 
+## Adware
+    Softwares voltados para propaganda que abrem de forma automática, sem permissão do usuário.
+
 ## Assinatura Digital
     Comprovação de identidade mediante um certificado digital; comprovação de que o emissor de um documento digital é mesmo quem afirma ser.
     Para o CPF, o valor do certificado gira em torno de R$ 90 e R$ 400 para um ano de validade, dependendo da agência certificadora e da modalidade. No geral, o app em celular é o mais barato, enquanto o combo cartão + leitora é o mais caro. Já para o CNPJ, os valores variam entre R$ 150 e R$ 410, também para um ano e para os mesmos tipos.
@@ -39,6 +42,9 @@
 ## e-Market
     Mistura de serviços entre busca e entrega. De certa forma, a parte física mudou de foco. De trazer os produtos para um lugar e os clientes buscarem para os clientes buscarem de qualquer lugar e recebê-los em casa. Permite também diversidade de fornecedores, como os e-market de varejo (magazineluiza, mercado livre, shopee, etc). Deve-se tomar cuidado com serviço por conta de dados pessoais; sites não confiáveis podem ser falsos e acabam furtando dados como número de cartões.
 
+## Freeware
+    Softwares protegidos por direitos autorais que são distribuídos pelos criadores de forma gratuita, porém o código-fonte não é público, diferente do opensource.
+
 ## Lei:
     Prescrição de regra(s) que estabelece uma obrigração que deve ser cumprida por um grupo pertencente a um grupo maior (pessoas - sociedade), com caráter punitivo.
 
@@ -58,12 +64,21 @@
 ## Norma:
     Boas práticas, padrões de comportamento.
 
+## Open source
+    Softwares open source são parecidos com os freeware; softwares gratuitos com seu código aberto ao público.
+
 ## Outsourcing
     Transferir tarefas, operações, trabalhos ou processos para uma força de trabalho externa, contratando terceiros por um período de TEMPO DETERMINADO, com intuito de reduzir custos e/ou melhorar eficiência.
     Aumento de qualificação de setor de atividade sem aumentar a complexidade da empresa. Surgida uma demanda repentina, para que não haja necessidade de treinar um pessoal, contrata-se uma empresa terceirizada que já tem experiência no assunto e não há necessidade de vínculo posterior como salários, aumento de instalação, economia de tempo, etc. Outra grande vantagem é que possibilita evitar infrações a normas ou leis governamentais, como regulamentos ambientais ou requisitos de segurança do trabalho.
 
 ## Regulamento:
     Conjunto de normas.
+    
+## Shareware
+    Softwares que são gratuitos por um determinado tempo, depois devem ser pagos para adquirir a licensa de uso. (softwares com versão trial)
+   
+## Software de domínio público
+    Software que se torna público após passado o prazo determinado por lei que garante a autoria
 
 # Siglas
 
